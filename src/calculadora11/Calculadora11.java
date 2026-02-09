@@ -1,4 +1,5 @@
-/**Clase Calculadora hace las operaciones aritmeticas: sumar, restas, multiplicar, dividir, potencia y módulo*/
+/**Clase Calculadora hace las operaciones aritmeticas: sumar, restas, multiplicar, dividir, potencia y módulo
+@author Ian Flores*/
 package calculadora11;
 
 public class Calculadora11 {
